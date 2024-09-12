@@ -1,5 +1,5 @@
 # Tacking-by-detection-Zebrafish
-the demo video of the paper 'Tacking-by-detection and 3D Trajectary Reconstruction for Zebrafish based on Distributed Cloud-edge Collaboration'
+the demo video of the paper 'Tracking-by-detection and 3D Trajectary Reconstruction for Zebrafish based on OC-SORT and Cloud-edge Collaboration'
 
 https://www.bilibili.com/video/BV1NLHfeWEkB/?vd_source=cd2f33dd871f261bcfd18b805a170991
 
